@@ -46,7 +46,7 @@ const portfolios = [
     href: "#",
     description:
       "A nationwide digital health platform built for both web and mobile, ASIK helps health workers across Indonesia report and access real-time medical data.",
-    imageUrl: "/images/asik.png",
+    imageUrl: "/images/asik.jpeg",
     date: "2023 - 2025",
   },
   {
@@ -55,7 +55,7 @@ const portfolios = [
     href: "#",
     description:
       "A low-code platform that simplifies building systems and applications. It helps developers work more efficiently and maintain their projects with ease.",
-    imageUrl: "/images/qore.png",
+    imageUrl: "/images/qore.jpeg",
     date: "2021 - 2023",
   },
   {
@@ -64,7 +64,7 @@ const portfolios = [
     href: "#",
     description:
       "Geospatial marketplace where you can get access to Truths (Data) and Answers (Insights) from multiple suppliers, in one place, using a simple interface.",
-    imageUrl: "/images/eartheye.png",
+    imageUrl: "/images/eartheye.jpeg",
     date: "2022",
   },
   {
@@ -73,7 +73,7 @@ const portfolios = [
     href: "#",
     description:
       "Built the official event platform for one of Indonesia’s largest financial forums, attended by international investors and policymakers.",
-    imageUrl: "/images/mif.png",
+    imageUrl: "/images/mif.jpeg",
     date: "2021",
   },
   {
@@ -82,7 +82,7 @@ const portfolios = [
     href: "#",
     description:
       "A hotel app that lets customers explore hotel facilities through an interactive 360° VR experience to get a realistic sense of what staying there feels like.",
-    imageUrl: "/images/inepinn.png",
+    imageUrl: "/images/inepinn.jpeg",
     date: "2020",
   },
 ];
@@ -210,7 +210,7 @@ export default function Example() {
                         width={400}
                         height={600}
                         alt=""
-                        src="/images/me.jpg"
+                        src="/images/me.jpeg"
                         className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-lg"
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
